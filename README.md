@@ -58,7 +58,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f1a)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f1a)](https://zulfiqaralizaidi749.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1a)](https://linkedin.com/in/zulfiqar-ali-zaidi)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:zulfiqaralizaidi749@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/zulfiqaralizaidi749)
