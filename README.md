@@ -22,7 +22,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-zulfiqaralizaidi749%40gmail.com-f59e0b?style=flat-square&labelColor=0a0f1a"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=00d4ff&style=flat-square&labelColor=0a0f1a"/>
+  <img src="https://komarev.com/ghpvc/?username=zulfiqaralizaidi749&label=Profile%20Views&color=00d4ff&style=flat-square&labelColor=0a0f1a"/>
 </div>
 
 <br/>
@@ -55,7 +55,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f1a)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1a)](https://linkedin.com/in/zulfiqar-ali-zaidi)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:zulfiqaralizaidi749@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/zulfiqaralizaidi749)
 
 </div>
 
@@ -63,7 +63,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github.com/zulfiqaralizaidi749/zulfiqaralizaidi749/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -373,15 +373,15 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=midnight-purple&bg_color=0a0f1a&border_color=00d4ff&title_color=00d4ff&text_color=cce4f0&icon_color=00ff9d&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfiqaralizaidi749&show_icons=true&theme=midnight-purple&bg_color=0a0f1a&border_color=00d4ff&title_color=00d4ff&text_color=cce4f0&icon_color=00ff9d&include_all_commits=true&count_private=true)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=midnight-purple&bg_color=0a0f1a&border_color=a855f7&title_color=a855f7&text_color=cce4f0&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfiqaralizaidi749&layout=compact&theme=midnight-purple&bg_color=0a0f1a&border_color=a855f7&title_color=a855f7&text_color=cce4f0&langs_count=8)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=midnight-purple&background=0a0f1a&border=00d4ff&stroke=00d4ff&ring=00ff9d&fire=ff4da6&currStreakNum=ffffff&sideNums=cce4f0&currStreakLabel=00d4ff&sideLabels=4a7a93&dates=4a7a93)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zulfiqaralizaidi749&theme=midnight-purple&background=0a0f1a&border=00d4ff&stroke=00d4ff&ring=00ff9d&fire=ff4da6&currStreakNum=ffffff&sideNums=cce4f0&currStreakLabel=00d4ff&sideLabels=4a7a93&dates=4a7a93)
 
 </div>
 
@@ -391,7 +391,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zulfiqaralizaidi749&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&column=6)
 
 </div>
 
@@ -401,7 +401,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0a0f1a&color=00d4ff&line=00ff9d&point=a855f7&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Zulfiqar's%20Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfiqaralizaidi749&bg_color=0a0f1a&color=00d4ff&line=00ff9d&point=a855f7&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Zulfiqar's%20Contribution%20Graph)
 
 </div>
 
@@ -421,7 +421,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=YOUR-USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=zulfiqaralizaidi749&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -429,7 +429,7 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00d4ff&style=flat-square&label=Profile+Views&labelColor=0a0f1a)](https://github.com/YOUR-USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=zulfiqaralizaidi749&color=00d4ff&style=flat-square&label=Profile+Views&labelColor=0a0f1a)](https://github.com/zulfiqaralizaidi749)
 
 </div>
 
