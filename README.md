@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:a855f7,100:00ff9d&height=220&section=header&text=Zulfiqar%20Ali%20Zaidi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer%20%26%20Solution%20Architect&descAlignY=58&descColor=00ff9d&animation=fadeIn&stroke=00d4ff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:a855f7,100:00d4ff&height=120&section=footer" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
@@ -48,6 +48,12 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Socials
 
 <div align="center">
@@ -58,15 +64,6 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/zulfiqaralizaidi749)
 
 </div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/zulfiqaralizaidi749/zulfiqaralizaidi749/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
 
 ## 🏆 Impact at a Glance
 
@@ -387,11 +384,17 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Certifications & Credentials
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=zulfiqaralizaidi749&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&column=6)
+| 🏅 Certification | 🏢 Issuer | 📅 Status |
+|:----------------|:---------|:---------|
+| **Databricks Certified Data Engineer Associate** | Databricks | ✅ Certified |
+| **Microsoft Fabric Data Engineer Associate** | Microsoft | ✅ Certified |
+| **AWS Certified Data Engineer Associate** | Amazon Web Services | ✅ Certified |
+| **AWS Well-Architected Framework** | Amazon Web Services | ✅ Certified |
+| **Snowflake SnowPro Core Certification** | Snowflake | ✅ Certified |
 
 </div>
 
@@ -414,18 +417,6 @@ I specialize in **Lakehouse Architecture, Real-Time Streaming, Data Mesh, MLOps,
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=zulfiqaralizaidi749&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 <div align="center">
 
